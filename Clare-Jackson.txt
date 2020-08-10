@@ -120,7 +120,7 @@ Type git add . To add new changes to the repo
 Type git commit -m "message here" to commit changes to the repo after significant task
 Then push all commits from my pc to Github with git push -u origin Clare-Jackson
 Then refresh to see the branch
-Click Branch:master to select my name branch
+Click Branch:master or switch from main to select my name branch
 Then click New Pull Request
 Change base repository dropdown to the forked repo
 Add TL as a Reviewer and write a message, then submit
