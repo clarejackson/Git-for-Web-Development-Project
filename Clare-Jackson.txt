@@ -1,4 +1,4 @@
-https://codepen.io/Clare-Jackson/pen/jOqPbVm?editors=1100
+https://codepen.io/Clare-Jackson/pen/jOqPbVm
 
   1. What is Semantic HTML? 
 The tags that clearly define the information they contain
@@ -116,6 +116,14 @@ Type git clone then paste the repo link
 Cd into new repo
 Type git checkout -b "Clare-Jackson"
 Work on the repo
+Type git add . To add new changes to the repo
+Type git commit -m "message here" to commit changes to the repo after significant task
+Then push all commits from my pc to Github with git push -u origin Clare-Jackson
+Then refresh to see the branch
+Click Branch:master to select my name branch
+Then click New Pull Request
+Change base repository dropdown to the forked repo
+Add TL as a Reviewer and write a message, then submit
 
 Stretch Questions
 
